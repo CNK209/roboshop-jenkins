@@ -8,3 +8,6 @@
     - {name: "payment", dir: "CIPipelines"}
     - {name: "shipping", dir: "CIPipelines"}
     - {name: "dispatch", dir: "CIPipelines"}
+
+folders:
+  - CIPipelines
